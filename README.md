@@ -1,6 +1,7 @@
 # Sistem automat de udare a plantelor (IoT – MQTT)
 
-**Universitatea „POLITEHNICA” Timișoara**  
+Facultatea de Robotică, Inteligență Artificială
+și Sisteme Autonome**  
 **Departamentul de ID/IFR și educație digitală (DeL) – Informatică**  
 **Disciplina:** Proiect Sincretic I A – Sisteme cu microcontrolere și IoT industriale  
 **Student:** Carmazan Ovidiu Dan  
