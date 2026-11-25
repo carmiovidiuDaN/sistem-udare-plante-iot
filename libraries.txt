@@ -1,0 +1,8 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+ESPPubSubClientWrapper
+DHT sensor library
+ArduinoJson
+MQTTPubSubClient
+PubSubClient3
