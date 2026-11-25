@@ -1,6 +1,6 @@
 # Sistem automat de udare a plantelor (IoT – MQTT)
 
-Facultatea de Robotică, Inteligență Artificială
+**Facultatea de Robotică, Inteligență Artificială
 și Sisteme Autonome**  
 **Departamentul de ID/IFR și educație digitală (DeL) – Informatică**  
 **Disciplina:** Proiect Sincretic I A – Sisteme cu microcontrolere și IoT industriale  
